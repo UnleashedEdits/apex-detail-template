@@ -1,6 +1,6 @@
 # APEX Auto Care
 
-Fictional detailing website demo.
+Detailing website demo.
 
 Live site: https://unleashededits.github.io/apex-detail-template/
 
